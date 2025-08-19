@@ -7,3 +7,10 @@
   --destaque-inverso
   --fundo-card
 */
+
+body{
+  background-color: #fdf3dd;
+  color: #bb1892;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: auto;
+}
